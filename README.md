@@ -1,6 +1,7 @@
 # DragonRT-Allegro
 Simple retro game in C++, written using pthread and allegro library
 
+![dragonRT_example](dragon_game.jpg)
 
 ## Requirements
 
