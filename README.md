@@ -7,6 +7,7 @@ Simple retro game in C++, written using pthread and allegro library
 
 * liballegro 5 https://github.com/liballeg/allegro5
 * pthread library support
+
 Game tested with Ubuntu 18.04.1 and Allegro 5
 
 ## How to install
